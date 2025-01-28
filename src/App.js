@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      Test
-    </div>
+    <div className="text-blue-600">Test</div>
+
+
   );
 }
 
